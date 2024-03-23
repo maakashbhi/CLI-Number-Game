@@ -1,0 +1,24 @@
+{
+  "name": "a2kash-number-guess-game",
+  "version": "2.0.3",
+  "description": "this is my number guessing game ",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maakashbhi/CLI-Number-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maakashbhi/CLI-Number-Game/issues"
+  },
+  "homepage": "https://github.com/maakashbhi/CLI-Number-Game#readme"
+}
