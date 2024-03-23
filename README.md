@@ -1,2 +1,2 @@
-# CLI-Number-Game
+#Number-Game
 This is my seacond project
